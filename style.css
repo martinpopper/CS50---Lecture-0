@@ -1,0 +1,16 @@
+h1{
+    color:blue;
+    text-align:center;
+}
+div {
+    border: 3px dotted blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(239, 142, 142);
+    margin: 0 auto;
+    padding:20px;
+}
+
